@@ -1,2 +1,2 @@
 # play-redis
-Bootstrap for using redis with play framework
+Boiler plate for using redis with play framework
