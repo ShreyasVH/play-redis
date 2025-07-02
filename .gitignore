@@ -1,7 +1,11 @@
 .idea
+.envrc
 target
 project/target
 project/project
-logs
-.env
 .DS_Store
+dist/
+.bsp/
+compile.log
+compile2.log
+server.log
