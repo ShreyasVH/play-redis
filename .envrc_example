@@ -13,3 +13,4 @@ export REPO_NAME=$(grep "name := " build.sbt | awk -F\" '{print $2}')
 
 export REDIS_IP=
 export REDIS_PORT=
+
