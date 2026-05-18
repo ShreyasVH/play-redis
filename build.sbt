@@ -6,7 +6,7 @@ scalaVersion := "3.8.2"
 
 libraryDependencies ++= Seq(
   guice,
-  "redis.clients" % "jedis" % "7.4.0"
+  "redis.clients" % "jedis" % "7.5.0"
 )
 
 lazy val root = (project in file(".")).enablePlugins(PlayJava)
